@@ -105,6 +105,7 @@ python src/clustering/run_clustering.py
 python src/visualize/plot_network.py
 ```
 ##📚 Citation
+
 Mai Thanh Phúc, Hoàng Thị Yến Nhi, Trần Trọng Thành, Lê Nhật Tùng.
 Artist Network Clustering and Community Detection in Vietnamese Gameshows.
 HUTECH University.
