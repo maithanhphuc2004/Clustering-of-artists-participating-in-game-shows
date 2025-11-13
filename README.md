@@ -1,10 +1,10 @@
 # 🎭 Artist Network Clustering & Community Detection  
 *Phân cụm mạng lưới nghệ sĩ gameshow & phát hiện nhóm hợp tác thường xuyên*
 
-![Stars](https://img.shields.io/github/stars/maithanhphuc2004/Artist-Network-Clustering?style=flat-square)
-![Forks](https://img.shields.io/github/forks/maithanhphuc2004/Artist-Network-Clustering?style=flat-square)
-![Issues](https://img.shields.io/github/issues/maithanhphuc2004/Artist-Network-Clustering?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/maithanhphuc2004/Artist-Network-Clustering?color=green&style=flat-square)
+![Louvain](https://img.shields.io/badge/Model-Louvain-blueviolet?style=flat-square)
+![Leiden](https://img.shields.io/badge/Model-Leiden-green?style=flat-square)
+![Spectral](https://img.shields.io/badge/Model-Spectral%20Clustering-orange?style=flat-square)
+![GMM](https://img.shields.io/badge/Model-Gaussian%20Mixture%20Model-red?style=flat-square)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
